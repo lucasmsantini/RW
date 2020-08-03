@@ -1,0 +1,2 @@
+python-xlib==3.8.1
+pywinauto==0.6.8
